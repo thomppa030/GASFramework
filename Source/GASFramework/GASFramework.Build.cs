@@ -25,7 +25,7 @@ public class GASFramework : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core", "GameplayAbilities", "ModularGameplay", "EnhancedInput", "GameFeatures"
+				"Core", "GameplayAbilities", "ModularGameplay", "EnhancedInput", "GameFeatures", "GameplayTasks"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
